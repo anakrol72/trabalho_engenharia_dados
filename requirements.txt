@@ -1,0 +1,5 @@
+azure-storage-blob
+pandas
+scikit-learn
+matplotlib
+seaborn
